@@ -15,3 +15,6 @@ prevent wastage, and streamline operational efficiency.
 This project represents a critical step towards sustainable water management, 
 offering a scalable, cost-effective solution to monitor and conserve water resources 
 effectively
+
+
+Youtube Link - https://www.youtube.com/watch?v=yq0LR_PZ6Eo
