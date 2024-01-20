@@ -19,7 +19,7 @@ Arduino IDE installed
 Installation
 Clone the repository:
 
-bash
+# bash
 Copy code
 git clone https://github.com/your-username/smart-water-tank-iot.git
 Upload the Arduino code to your microcontroller.
@@ -27,13 +27,16 @@ Upload the Arduino code to your microcontroller.
 Set up the centralized platform by following the instructions in the platform/README.md file.
 
 # Usage
-Power up the IoT device.
+Power up the ESP32 device.
 Access the centralized platform to monitor and analyze water data.
-Contributing
+# Contributing
 Contributions are welcome! Please follow our contribution guidelines.
 
 
-Acknowledgements
+# Acknowledgements
 Special thanks to Malanban. K, Madhusha. S
 For inquiries and support, please contact sairisan123@gmail.com.
+
+# Demonstration
+https://www.youtube.com/watch?v=yq0LR_PZ6Eo
 
