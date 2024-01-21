@@ -19,8 +19,8 @@ Arduino IDE installed
 Installation
 Clone the repository:
 
-# bash
-Copy code
+# Clone our Project
+
 git clone https://github.com/your-username/smart-water-tank-iot.git
 Upload the Arduino code to your microcontroller.
 
