@@ -22,7 +22,7 @@ Clone the repository:
 # Clone our Project
 
 git clone https://github.com/your-username/smart-water-tank-iot.git
-Upload the Arduino code to your microcontroller.
+Upload the Arduino code to ESP32.
 
 Set up the centralized platform by following the instructions in the platform/README.md file.
 
