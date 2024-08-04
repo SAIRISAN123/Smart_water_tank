@@ -2,7 +2,9 @@
 
 The Smart Water Tank IoT project introduces an innovative system designed to revolutionize the monitoring and management of water storage. With the growing concern over water scarcity and resource management, this project aims to address these challenges by implementing an Internet of Things (IoT) framework.
 
-https://github.com/SAIRISAN123/Smart_water_tank/blob/main/Dashboard/Login.png
+![Alt text]([https://github.com/SAIRISAN123/ClickGuard/blob/main/Combined.JPG](https://github.com/SAIRISAN123/Smart_water_tank/blob/main/Dashboard/Login.png))
+
+
 
 # Features
 Real-time Monitoring: Utilizes ultrasonic sensors for accurate measurement of water levels.
